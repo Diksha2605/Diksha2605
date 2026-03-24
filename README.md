@@ -1,24 +1,24 @@
-<!-- 🔥 DIKSHA SINGH PREMIUM GITHUB PROFILE -->
+<!-- 🔥 ULTRA PREMIUM GITHUB PROFILE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Diksha%20Singh&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Diksha%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center"> I'm Diksha Singh</h1>
+<h1 align="center">Namaste 🙏 I'm Diksha Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Machine+Learning+Builder;Solving+Real-World+Problems;No+AutoML+Only+Real+Work" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Aspiring+Data+Scientist;ML+Engineer+in+Progress;Real-World+Projects+Only;Building+Impactful+Solutions" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 BCA Student focused on **Data Science & Machine Learning**  
-💻 I build **real-world projects (NO AutoML 🚫)**  
-📊 Strong focus on **Data Cleaning, Model Reliability & Analytics**  
-🧪 Exploring Machine Learning, Deep Learning & Data Engineering  
-🎯 Goal: Become a **Data Scientist in Big Tech**
+🎓 BCA Student into **Data Science & AI**  
+💻 Real-world ML projects (NO AutoML 🚫)  
+📊 Focus: Data Cleaning, Analytics, Model Reliability  
+🚀 Learning Deep Learning & Advanced ML  
+🎯 Goal: Big Tech Data Scientist  
 
 ---
 
@@ -26,80 +26,76 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/diksha-singh30">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00ADB5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack (Animated Icons)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Advanced GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha2605&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha2605&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Diksha2605&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha2605&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Diksha2605&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Diksha2605&theme=radical&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Contribution Graph (Snake Animation 🐍)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Diksha2605&theme=algolia&no-frame=true&row=1"/>
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Diksha2605&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔥 Prediction Confidence Decay Tracker
-💡 Tracks how ML model confidence decreases over time  
-📉 Detects unreliable predictions in production  
-🧠 Helps improve trust in ML systems  
+### 🔥 Prediction Confidence Tracker  
+📉 Detects unreliable ML predictions  
+📊 Tracks confidence decay over time  
 
 ---
 
-### 📊 ETL Pipeline on Retail Data
-⚙️ End-to-end data cleaning & transformation  
-📦 Handles messy real-world datasets  
-📈 Built using Python & SQL  
+### 📊 Retail ETL Pipeline  
+⚙️ Data cleaning + transformation  
+📦 Real-world messy dataset handling  
 
 ---
 
-### 🧠 Smart Data Debugger (Upcoming 💎)
-💡 Detects missing values, outliers & inconsistencies  
-⚙️ Suggests intelligent cleaning strategies  
-🎯 Built for real-world data scientists  
-
----
-
-## 🧩 What Makes Me Different
-
-✔️ Real-world problem solving  
-✔️ No basic/tutorial projects  
-✔️ Focus on data quality & ML reliability  
-✔️ Building tools for data scientists  
+### 🧠 Smart Data Debugger  
+💡 Auto-detects bad data  
+🚀 Saves hours of manual work  
 
 ---
 
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diksha2605&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=Diksha2605&color=00ADB5&style=flat-square"/>
 </p>
 
 ---
@@ -111,5 +107,5 @@
 ---
 
 <p align="center">
-  ⭐ From Diksha with ambition 💫
+  ⭐ Built with ambition 💫
 </p>
