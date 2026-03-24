@@ -1,34 +1,34 @@
-<!-- 🔥 PREMIUM GITHUB PROFILE -->
+<!-- 🔥 DIKSHA SINGH PREMIUM PROFILE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Diksha%20Singh&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Diksha%20Singh&fontSize=42&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Namaste 🙏 I'm Diksha Singh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&lines=Data+Science+Explorer;Machine+Learning+Builder;Solving+Real-World+Problems;Future+Data+Scientist" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&center=true&vCenter=true&lines=Aspiring+Data+Scientist;Machine+Learning+Builder;Solving+Real-World+Problems;No+AutoML+Only+Real+Work" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💡 BCA Student with a strong focus on **Data Science & AI**  
-🚀 I build **real-world, industry-level projects (NO AutoML 🚫)**  
-📊 Passionate about **Data Cleaning, Model Reliability & Analytics**  
-🔬 Exploring Machine Learning, Deep Learning & Data Engineering  
-🎯 Goal: Crack Big Tech as a Data Scientist  
+🎓 BCA Student focused on **Data Science & Machine Learning**  
+💻 I build **real-world projects (NO AutoML 🚫)**  
+📊 Strong focus on **Data Cleaning, Model Reliability & Analytics**  
+🧪 Currently working on solving **industry-level data problems**  
+🎯 Goal: Become a **Data Scientist in Big Tech**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/diksha-singh30">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:singhdiksha5063@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -46,12 +46,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=diksha-singh30&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-singh30&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=diksha-singh30&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -59,39 +59,46 @@
 ## 🚀 Featured Projects
 
 ### 🔥 Prediction Confidence Decay Tracker
-💡 Tracks how ML model confidence changes over time  
-📉 Detects unreliable predictions in real-world deployment  
-🧠 Helps improve trust & monitoring in ML systems  
+💡 Tracks how ML model confidence decreases over time  
+📉 Detects unreliable predictions in production  
+🧠 Helps data scientists monitor and trust ML systems  
 
 ---
 
-### 📊 Retail Data ETL Pipeline
-⚙️ End-to-end data cleaning & transformation  
+### 📊 ETL Pipeline on Retail Data
+⚙️ End-to-end data cleaning, transformation & loading  
 📦 Handles messy real-world datasets  
-📈 Built using Python + SQL  
+📈 Built using Python, Pandas & SQL  
 
 ---
 
-## 🧩 What Makes Me Stand Out
+### 🧠 Smart Data Debugger (Upcoming 💎)
+💡 Detects missing values, outliers & inconsistencies  
+⚙️ Suggests intelligent cleaning strategies  
+🎯 Built for real-world data scientists  
 
-✔️ I solve **real industry problems**  
-✔️ I focus on **data quality & model reliability**  
-✔️ I build tools for **data scientists, not just projects**  
-✔️ I avoid basic/tutorial-level work  
+---
+
+## 🧩 What Makes Me Different
+
+✔️ I don’t build basic/tutorial projects  
+✔️ I focus on **real-world industry problems**  
+✔️ I care about **data quality & model reliability**  
+✔️ I build tools that **help data scientists work better**
 
 ---
 
 ## 📈 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=diksha-singh30&color=blue"/>
 </p>
 
 ---
 
 ## ✨ Quote
 
-> "Data is silent. I make it speak."
+> “Data is silent. I make it speak.”
 
 ---
 
