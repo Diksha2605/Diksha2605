@@ -59,7 +59,7 @@
 ## 📊 Contribution Graph (Snake Animation 🐍)
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Diksha2605/Diksha2605/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -77,6 +77,17 @@
 ### 🔥 Prediction Confidence Tracker  
 📉 Detects unreliable ML predictions  
 📊 Tracks confidence decay over time  
+
+---
+
+### 💎 ML Reliability Monitoring System (LQEN Project)  
+💡 Advanced system for real-world ML model monitoring  
+
+• Tracks prediction confidence over time  
+• Detects model degradation & drift  
+• Flags unreliable outputs in production  
+• Improves trust and reliability of ML systems  
+📈 Designed with production-level ML system thinking  
 
 ---
 
