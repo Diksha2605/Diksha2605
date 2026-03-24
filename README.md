@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Diksha%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center"> HELLO..!! I'm Diksha Singh</h1>
+<h1 align="center"> HELLO..!! , I'm Diksha Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Aspiring+Data+Scientist;ML+Engineer+in+Progress;Real-World+Projects+Only;Building+Impactful+Solutions" />
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚡ Tech Stack (Animated Icons)
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,linux&theme=dark" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 📊 Contribution Graph (Snake Animation 🐍)
+## 📊 Contribution Graph 
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
