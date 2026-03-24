@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-🎓 BCA Student into **Data Science & AI**  
+🎓 BCA Student into **Data Science & ML**  
 💻 Real-world ML projects (NO AutoML 🚫)  
 📊 Focus: Data Cleaning, Analytics, Model Reliability  
 🚀 Learning Deep Learning & Advanced ML  
