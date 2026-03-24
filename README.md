@@ -1,25 +1,44 @@
-<h1 align="center">Hi 👋, I'm Diksha</h1>
-<h3 align="center">🚀 Data Science Enthusiast | ML Builder | Future Quant</h3>
+<!-- 🔥 PREMIUM GITHUB PROFILE -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diksha2605&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Diksha%20Singh&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h1 align="center">Namaste 🙏 I'm Diksha Singh</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&center=true&vCenter=true&lines=Data+Science+Explorer;Machine+Learning+Builder;Solving+Real-World+Problems;Future+Data+Scientist" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-✨ Turning data into insights & decisions  
-📊 Focused on Machine Learning, Forecasting & Analytics  
-🏆 Top 10% – redBus Data Decode Hackathon  
-🎯 Goal: Become a High-Impact Data Scientist  
+💡 BCA Student with a strong focus on **Data Science & AI**  
+🚀 I build **real-world, industry-level projects (NO AutoML 🚫)**  
+📊 Passionate about **Data Cleaning, Model Reliability & Analytics**  
+🔬 Exploring Machine Learning, Deep Learning & Data Engineering  
+🎯 Goal: Crack Big Tech as a Data Scientist  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,sql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,linux" />
 </p>
 
 ---
@@ -27,48 +46,55 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diksha2605&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diksha2605&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 Featured Projects
+
+### 🔥 Prediction Confidence Decay Tracker
+💡 Tracks how ML model confidence changes over time  
+📉 Detects unreliable predictions in real-world deployment  
+🧠 Helps improve trust & monitoring in ML systems  
+
+---
+
+### 📊 Retail Data ETL Pipeline
+⚙️ End-to-end data cleaning & transformation  
+📦 Handles messy real-world datasets  
+📈 Built using Python + SQL  
+
+---
+
+## 🧩 What Makes Me Stand Out
+
+✔️ I solve **real industry problems**  
+✔️ I focus on **data quality & model reliability**  
+✔️ I build tools for **data scientists, not just projects**  
+✔️ I avoid basic/tutorial-level work  
+
+---
+
+## 📈 Profile Views
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diksha2605&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## ✨ Quote
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Diksha2605&theme=tokyo-night" />
-</p>
+> "Data is silent. I make it speak."
 
 ---
 
-## 🏆 Top Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diksha2605&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Featured Work
-
-🔹 Sales Forecasting ML Model  
-🔹 Data Analytics Projects  
-🔹 Hackathon Solutions  
-
-👉 *Improving & adding more high-impact projects...*
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  ⭐ From Diksha with ambition 💫
 </p>
