@@ -59,17 +59,15 @@
 ## 📊 Contribution Graph (Snake Animation 🐍)
 
 <p align="center">
-  <img src="https:/raw.githubusercontent.com/Diksha2605/Diksha2605/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Diksha2605&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
